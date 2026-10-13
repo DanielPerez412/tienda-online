@@ -25,19 +25,19 @@ function App() {
           <ProductCard
             nombre="maincra"
             precio="89.900"
-            imagen="🥵"
+            imagen="https://static.wikia.nocookie.net/memes-pedia/images/1/17/Descarga-3.jpg/revision/latest?cb=20200818170944&path-prefix=es"
           />
 
           <ProductCard
             nombre="FIFA 26"
             precio="199.900"
-            imagen="😒"
+            imagen="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH9g24sLED3F5V4BN50Tl2swVg4L1ULJzNv7l1YI3660w0b32e2qBxRN8&s=10"
           />
 
           <ProductCard
             nombre="Mario Kart"
             precio="159.900"
-            imagen="🎮"
+            imagen="https://es.kotaku.com/app/uploads/2025/07/170a3a61fd181633f0c38f20bbebfc74.jpg"
           />
 
         </div>
